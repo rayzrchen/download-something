@@ -1,0 +1,7 @@
+yturl
+mutagen
+requests>=2.7.0
+selenium
+beautifulsoup4
+youtube_dl
+lxml
